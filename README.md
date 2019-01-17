@@ -1,5 +1,7 @@
 # get-server-address
 
+[![CircleCI](https://circleci.com/gh/jameslnewell/get-server-address.svg?style=svg)](https://circleci.com/gh/jameslnewell/get-server-address)
+
 Get the address of a server.
 
 ## Installation
