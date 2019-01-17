@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "lib": ["esnext"],
+    "outDir": "lib",
+    "strict": true
+  },
+  "include": ["src"]
+}
