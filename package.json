@@ -2,6 +2,8 @@
   "name": "get-server-address",
   "version": "1.0.0",
   "main": "lib/index.js",
+  "description": "Get the address of a server.",
+  "repository": "jameslnewell/get-server-address",
   "files": [
     "lib"
   ],
